@@ -1,0 +1,119 @@
+.root {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+  height: auto;
+  justify-content: flex-start;
+  align-items: center;
+  min-width: 0;
+}
+.rectangle4 {
+  background: rgba(216, 216, 216, 1);
+  width: 395px;
+  height: 178px;
+  display: block;
+  position: absolute;
+  top: 517px;
+  left: 458px;
+  flex-shrink: 0;
+  border-radius: 34px;
+}
+.freeBox__cojUo {
+  display: flex;
+  position: absolute;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+  width: 362px;
+  height: 87px;
+  max-width: 100%;
+  left: 18px;
+  top: 88px;
+  padding: 8px;
+}
+.freeBox__lWvvv {
+  display: flex;
+  position: absolute;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  width: 147px;
+  height: auto;
+  max-width: 100%;
+  left: 0px;
+  top: 0px;
+  flex-shrink: 0;
+  padding: 8px;
+}
+.text__ugfck {
+  position: relative;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  font-weight: 500;
+  min-width: 0;
+}
+.text__zFduW {
+  position: relative;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  min-width: 0;
+}
+.freeBox__eNxqo {
+  display: flex;
+  position: absolute;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  width: 210px;
+  height: auto;
+  max-width: 100%;
+  left: 149px;
+  top: 0px;
+  flex-shrink: 0;
+  padding: 8px;
+}
+.text__yNNbx {
+  position: relative;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  align-self: flex-start;
+  text-align: right;
+  font-weight: 500;
+  min-width: 0;
+}
+.text___6Hk8P {
+  position: relative;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  align-self: flex-start;
+  text-align: right;
+  min-width: 0;
+}
+.heartEmoji1 {
+  background: url("./images/heartEmoji1.png") center center / cover no-repeat;
+  width: 40px;
+  height: 40px;
+  display: block;
+  position: absolute;
+  top: 29px;
+  left: 327px;
+}
+.text__ewer9 {
+  display: block;
+  font-size: 32px;
+  font-family: "Inter", sans-serif;
+  font-weight: 500;
+  letter-spacing: 0em;
+  line-height: 100%;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 26px;
+  left: 24px;
+  width: 162px;
+  height: 47px;
+}
